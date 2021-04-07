@@ -1,0 +1,7 @@
+{
+    "require": {
+        "twig/twig": "^3.3",
+        "fakerphp/faker": "^1.14",
+        "twig/string-extra": "^3.3"
+    }
+}
