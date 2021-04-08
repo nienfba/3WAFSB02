@@ -2,4 +2,3 @@ vendor/
 cache/
 composer.lock
 tmp/
-blog/
